@@ -39,7 +39,7 @@ package org.sonarqube.auth.googleoauth;
  * #L%
  */
 
-import com.github.scribejava.core.builder.ServiceBuilder;
+import com.github.scribejava.core.builder.ServiceBuilder; //adding a comment
 import com.github.scribejava.core.model.*;
 import com.github.scribejava.core.oauth.OAuthService;
 import org.sonar.api.server.ServerSide;
